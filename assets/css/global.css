@@ -1,3 +1,22 @@
+/* Custom PCH Additions */
+/* ---------------------------------------------------------- */
+
+.logo-container {
+  display: flex;
+  direction: 1;
+  margin-top: 10px;
+}
+
+.logo {
+  height: 40px;
+  margin-right: 12px;
+}
+
+.logo:hover{
+  box-shadow: 0 2px 4px 0 rgba(51,26,157,0.50);
+}
+
+
 /* Variables
 /* ---------------------------------------------------------- */
 
